@@ -1,0 +1,22 @@
+{
+  "name": "algo-trading-box",
+  "version": "1.0.0",
+  "description": "auto trading bot, use cTrader Fix API and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidder514/AlgoTradingBox.git"
+  },
+  "author": "Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kidder514/AlgoTradingBox/issues"
+  },
+  "homepage": "https://github.com/kidder514/AlgoTradingBox#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
